@@ -1,3 +1,3 @@
 import Hero from "./Hero"
-
-export {Hero};
+import Footer from "./footer";
+export {Hero,Footer};
